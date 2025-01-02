@@ -74,6 +74,10 @@ chmod +x ./SAModManagerSetup.sh
 ```
 If wine mono pops up, you can either click install or cancel. It doesn't matter, the script will ensure it's removed later.
 
+## Game Specific Setup
+### Sonic Adventure DX
+If you're playing Sonic Adventure DX, make sure to run `./SADXConvert.sh` and go through the setup to convert your game to the 2004 version
+
 ## Issues
 Put in an issue in the repo with the output of the script and as much information as possible.
 
