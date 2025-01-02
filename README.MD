@@ -1,4 +1,4 @@
-# Aemulus Script Installer for Linux
+# Sonic Adventure Mod Manager Script Installer for Linux
 
 Before you ask, yes this is mostly recycled from the Aemulus and DMM setup scripts. This is designed to install the mod manager for you and enable one-clicks.
 
