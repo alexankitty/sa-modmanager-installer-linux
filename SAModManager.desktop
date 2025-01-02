@@ -1,0 +1,9 @@
+ [Desktop Entry]
+Name=Sonic Adventure Mod Manager
+Type=Application
+StartupNotify=true
+Icon=SAModManager
+MimeType=x-scheme-handler/sadxmm
+Exec=env WINEPREFIX=/home/alexandra/.local/share/samodmanager DOTNET_ROOT="" wine C:\\\\SAModManager\\\\SAModManager.exe %u
+Path=/home/alexandra/.local/share/samodmanager/drive_c/SAModManager
+Categories=Game
